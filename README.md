@@ -3,6 +3,10 @@
 A simple Python script that applies **real‑time object detection** on a video file using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) and **OpenCV**.  
 The script automatically saves the processed video with bounding boxes and object confidences.
 
+<p align="center">
+  <img src="https://i.imgur.com/mLurTMJ.jpeg" width="700" alt="Preview of AI Video Analysis" />
+</p>
+
 ---
 
 ## ✨ Features
